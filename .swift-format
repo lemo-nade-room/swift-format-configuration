@@ -26,7 +26,7 @@
     "never" : {
     }
   },
-  "respectsExistingLineBreaks" : false,
+  "respectsExistingLineBreaks" : true,
   "rules" : {
     "AllPublicDeclarationsHaveDocumentation" : true,
     "AlwaysUseLiteralForEmptyCollectionInit" : true,
