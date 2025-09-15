@@ -30,7 +30,7 @@
   "rules" : {
     "AllPublicDeclarationsHaveDocumentation" : true,
     "AlwaysUseLiteralForEmptyCollectionInit" : true,
-    "AlwaysUseLowerCamelCase" : true,
+    "AlwaysUseLowerCamelCase" : false,
     "AmbiguousTrailingClosureOverload" : true,
     "AvoidRetroactiveConformances" : true,
     "BeginDocumentationCommentWithOneLineSummary" : true,
